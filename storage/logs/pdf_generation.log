@@ -1,0 +1,1586 @@
+[2025-04-17 11:58:01] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 11:58:01] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 11:58:01] [ERROR] Content extraction failed: Empty PDF data given. at /var/www/vendor/smalot/pdfparser/src/Smalot/PdfParser/RawData/RawDataParser.php:949
+[2025-04-17 12:00:02] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:00:02] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:00:02] [ERROR] Content extraction failed: Empty PDF data given. at /var/www/vendor/smalot/pdfparser/src/Smalot/PdfParser/RawData/RawDataParser.php:949
+[2025-04-17 12:02:42] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:02:42] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:02:42] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:02:42] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:02:42] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:02:42] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:02:42] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:02:42] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:02:42] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:02:43] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:02:47] [INFO] HTML content size before PDF generation: 563.1248664856MB
+[2025-04-17 12:02:47] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:03:04] [INFO] Generated PDF size: 3.5591192245483MB
+[2025-04-17 12:03:04] [INFO] PDF size 3.5591192245483MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:03:04] [INFO] Adding 69668313 bytes of padding to reach 70MB
+[2025-04-17 12:03:05] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:06:45] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:06:45] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:06:45] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:06:45] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:06:45] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:06:45] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:06:45] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:06:45] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:06:45] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:06:46] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:06:48] [INFO] HTML content size before PDF generation: 563.13758850098MB
+[2025-04-17 12:06:48] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:07:05] [INFO] Generated PDF size: 3.637580871582MB
+[2025-04-17 12:07:05] [INFO] PDF size 3.637580871582MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:07:05] [INFO] Adding 69586040 bytes of padding to reach 70MB
+[2025-04-17 12:07:05] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:10:54] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:10:54] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:10:54] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:10:54] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:10:54] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:10:54] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:10:54] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:10:54] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:10:54] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:10:55] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:10:57] [INFO] HTML content size before PDF generation: 563.10103797913MB
+[2025-04-17 12:10:57] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:11:07] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:11:07] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:11:08] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:11:08] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:11:08] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:11:08] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:11:08] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:11:08] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:11:08] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:11:09] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:11:12] [INFO] HTML content size before PDF generation: 563.1451292038MB
+[2025-04-17 12:11:13] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:11:29] [INFO] Generated PDF size: 3.6853637695312MB
+[2025-04-17 12:11:29] [INFO] PDF size 3.6853637695312MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:11:29] [INFO] Adding 69535936 bytes of padding to reach 70MB
+[2025-04-17 12:11:29] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:11:32] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:11:32] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:11:32] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:11:32] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:11:32] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:11:32] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:11:32] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:11:32] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:11:32] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:11:33] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:11:34] [INFO] HTML content size before PDF generation: 563.11041069031MB
+[2025-04-17 12:11:34] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:11:49] [INFO] Generated PDF size: 3.4726476669312MB
+[2025-04-17 12:11:49] [INFO] PDF size 3.4726476669312MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:11:49] [INFO] Adding 69758985 bytes of padding to reach 70MB
+[2025-04-17 12:11:50] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:12:17] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:12:17] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:12:17] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:12:17] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:12:17] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:12:17] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:12:17] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:12:17] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:12:17] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:12:18] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:12:19] [INFO] HTML content size before PDF generation: 563.13252258301MB
+[2025-04-17 12:12:19] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:12:34] [INFO] Generated PDF size: 3.6074686050415MB
+[2025-04-17 12:12:34] [INFO] PDF size 3.6074686050415MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:12:34] [INFO] Adding 69617615 bytes of padding to reach 70MB
+[2025-04-17 12:12:35] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:13:50] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:13:50] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:13:51] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:13:51] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:13:51] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:13:51] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:13:51] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:13:51] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:13:51] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:13:52] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:13:53] [INFO] HTML content size before PDF generation: 563.16135025024MB
+[2025-04-17 12:13:53] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:14:10] [INFO] Generated PDF size: 3.7859439849854MB
+[2025-04-17 12:14:10] [INFO] PDF size 3.7859439849854MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:14:10] [INFO] Adding 69430470 bytes of padding to reach 70MB
+[2025-04-17 12:14:10] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:14:11] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:14:11] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:14:11] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:14:11] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:14:11] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:14:11] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:14:11] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:14:11] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:14:11] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:14:12] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:14:13] [INFO] HTML content size before PDF generation: 563.1558599472MB
+[2025-04-17 12:14:13] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:14:29] [INFO] Generated PDF size: 3.7488584518433MB
+[2025-04-17 12:14:29] [INFO] PDF size 3.7488584518433MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:14:29] [INFO] Adding 69469357 bytes of padding to reach 70MB
+[2025-04-17 12:14:30] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:15:12] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:15:12] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:15:12] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:15:12] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:15:12] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:15:12] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:15:12] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:15:12] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:15:12] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:15:12] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:15:13] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:15:16] [INFO] HTML content size before PDF generation: 563.13212203979MB
+[2025-04-17 12:15:16] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:15:33] [INFO] Generated PDF size: 3.6071615219116MB
+[2025-04-17 12:15:33] [INFO] PDF size 3.6071615219116MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:15:33] [INFO] Adding 69617937 bytes of padding to reach 70MB
+[2025-04-17 12:15:34] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:15:34] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:15:34] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:15:35] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:15:35] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:15:35] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:15:35] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:15:35] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:15:35] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:15:35] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:15:37] [INFO] HTML content size before PDF generation: 563.16736793518MB
+[2025-04-17 12:15:37] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:15:53] [INFO] Generated PDF size: 3.8208541870117MB
+[2025-04-17 12:15:53] [INFO] PDF size 3.8208541870117MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:15:53] [INFO] Adding 69393864 bytes of padding to reach 70MB
+[2025-04-17 12:15:54] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:16:17] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:16:17] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:16:17] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:16:17] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:16:17] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:16:17] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:16:17] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:16:17] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:16:17] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:16:18] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:16:20] [INFO] HTML content size before PDF generation: 563.13190364838MB
+[2025-04-17 12:16:20] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:16:35] [INFO] Generated PDF size: 3.6037492752075MB
+[2025-04-17 12:16:35] [INFO] PDF size 3.6037492752075MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:16:35] [INFO] Adding 69621515 bytes of padding to reach 70MB
+[2025-04-17 12:16:36] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:16:36] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:16:36] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:16:37] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:16:37] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:16:37] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:16:37] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:16:37] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:16:37] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:16:37] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:16:38] [INFO] HTML content size before PDF generation: 563.1142539978MB
+[2025-04-17 12:16:38] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:16:54] [INFO] Generated PDF size: 3.4947719573975MB
+[2025-04-17 12:16:54] [INFO] PDF size 3.4947719573975MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:16:54] [INFO] Adding 69735786 bytes of padding to reach 70MB
+[2025-04-17 12:16:55] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:17:47] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:17:47] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:17:47] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:17:47] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:17:47] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:17:47] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:17:47] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:17:47] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:17:47] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:17:48] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:17:49] [INFO] HTML content size before PDF generation: 563.1878824234MB
+[2025-04-17 12:17:49] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:18:06] [INFO] Generated PDF size: 3.9439697265625MB
+[2025-04-17 12:18:06] [INFO] PDF size 3.9439697265625MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:18:06] [INFO] Adding 69264768 bytes of padding to reach 70MB
+[2025-04-17 12:18:06] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:18:07] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:18:07] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:18:07] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:18:07] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:18:07] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:18:07] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:18:07] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:18:07] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:18:07] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:18:08] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:18:09] [INFO] HTML content size before PDF generation: 563.11326217651MB
+[2025-04-17 12:18:09] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:18:24] [INFO] Generated PDF size: 3.4871454238892MB
+[2025-04-17 12:18:24] [INFO] PDF size 3.4871454238892MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:18:24] [INFO] Adding 69743783 bytes of padding to reach 70MB
+[2025-04-17 12:18:24] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:19:32] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:19:32] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:19:32] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:19:32] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:19:32] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:19:32] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:19:32] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:19:32] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:19:32] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:19:34] [INFO] HTML content size before PDF generation: 563.13299846649MB
+[2025-04-17 12:19:34] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:19:49] [INFO] Generated PDF size: 3.6146774291992MB
+[2025-04-17 12:19:49] [INFO] PDF size 3.6146774291992MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:19:49] [INFO] Adding 69610056 bytes of padding to reach 70MB
+[2025-04-17 12:19:50] [INFO] Final PDF size: 70MB (with padding)
+[2025-04-17 12:20:37] [INFO] Starting PDF generation process with target size of 70MB
+[2025-04-17 12:20:37] [INFO] Content.pdf file found at path: /var/www/storage/app/Content.pdf
+[2025-04-17 12:20:38] [INFO] Successfully extracted content from Content.pdf. Text preview: ●​ Account 
+●​ Search 
+●​
+Help 
+​​New to SpellingCity? 
+​​Teaching Resources 
+​​Videos / FAQs 
+​​Premium Membership
+
+We're on a Mission to Expand 
+Knowledge of Vocabulary W...
+[2025-04-17 12:20:38] [INFO] Content duplicated 50 times to increase size
+[2025-04-17 12:20:38] [INFO] Generating email thread with 25 exchanges
+[2025-04-17 12:20:38] [INFO] Generating base64 images for HTML content
+[2025-04-17 12:20:38] [INFO] Generating 75 large base64 images of approximately 10MB each
+[2025-04-17 12:20:38] [INFO] Generating base64 image #0 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #1 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #2 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #3 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #4 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #5 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #6 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #7 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #8 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #9 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #10 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #11 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #12 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #13 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #14 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #15 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #16 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #17 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #18 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #19 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #20 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #21 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #22 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #23 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #24 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #25 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #26 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #27 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #28 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #29 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #30 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #31 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #32 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #33 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #34 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #35 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #36 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #37 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #38 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #39 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #40 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #41 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #42 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #43 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #44 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #45 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #46 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #47 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #48 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #49 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #50 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #51 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #52 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #53 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #54 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #55 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #56 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #57 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #58 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #59 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #60 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #61 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #62 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #63 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #64 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #65 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #66 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #67 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #68 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #69 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #70 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #71 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #72 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #73 with size 7864320 bytes
+[2025-04-17 12:20:38] [INFO] Generating base64 image #74 with size 7864320 bytes
+[2025-04-17 12:20:39] [INFO] Generated 75 base64 images for HTML content
+[2025-04-17 12:20:40] [INFO] HTML content size before PDF generation: 563.13970470428MB
+[2025-04-17 12:20:40] [INFO] Starting PDF generation with wkhtmltopdf
+[2025-04-17 12:20:56] [INFO] Generated PDF size: 3.6526346206665MB
+[2025-04-17 12:20:56] [INFO] PDF size 3.6526346206665MB is below target of 70MB, using direct file size manipulation
+[2025-04-17 12:20:56] [INFO] Adding 69570255 bytes of padding to reach 70MB
+[2025-04-17 12:20:57] [INFO] Final PDF size: 70MB (with padding)

@@ -1,0 +1,48 @@
+version: '3'
+services:
+  app:
+    build:
+      context: ./docker/php
+      dockerfile: Dockerfile
+    container_name: legalpdf-app
+    restart: unless-stopped
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+    networks:
+      - legalpdf-network
+    depends_on:
+      - redis
+
+  nginx:
+    image: nginx:alpine
+    container_name: legalpdf-nginx
+    restart: unless-stopped
+    ports:
+      - "8000:80"
+    volumes:
+      - ./:/var/www
+      - ./docker/nginx/conf.d:/etc/nginx/conf.d
+    networks:
+      - legalpdf-network
+    depends_on:
+      - app
+
+  redis:
+    image: redis:alpine
+    container_name: legalpdf-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    networks:
+      - legalpdf-network
+    volumes:
+      - redis-data:/data
+
+networks:
+  legalpdf-network:
+    driver: bridge
+
+volumes:
+  redis-data:
+    driver: local 
