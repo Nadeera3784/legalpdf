@@ -130,8 +130,25 @@ The PDF generation job may take several minutes to complete depending on system 
 
 ## Package Dependencies
 
-- barryvdh/laravel-snappy: For PDF generation using wkhtmltopdf
-- smalot/pdfparser: For extracting text from the original PDF 
+### PDF Generation Packages
+
+- **barryvdh/laravel-snappy**: Laravel wrapper for wkhtmltopdf/wkhtmltoimage - used for converting HTML to PDF with advanced styling and formatting support. This package is the core PDF generator that:
+  - Handles complex HTML layouts including headers, footers and page numbers
+  - Supports CSS styling for professional document appearance
+  - Manages memory efficiently for large PDF generation
+
+- **smalot/pdfparser**: PHP library to parse PDF files and extract data. Used in this application to:
+  - Extract text from the source Content.pdf file
+  - Parse PDF structure for content manipulation
+  - Analyze PDF documents during testing to verify content integrity
+
+### Queue Management
+
+- **laravel/horizon**: Dashboard and code-driven configuration for Laravel Redis queues. Used to:
+  - Monitor queue health and throughput
+  - Provide real-time queue metrics
+  - Manage failed jobs and retries
+  - Track PDF generation progress
 
 ## Troubleshooting
 
