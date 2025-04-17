@@ -36,7 +36,7 @@ This Laravel application simulates the generation of a large PDF file (~70MB) fr
 
 1. Clone this repository:
 ```
-git clone <repository-url>
+git clone git@github.com:Nadeera3784/legalpdf.git
 cd legalpdf
 ```
 
