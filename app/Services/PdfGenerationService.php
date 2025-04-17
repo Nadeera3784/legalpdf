@@ -5,7 +5,6 @@ namespace App\Services;
 use Illuminate\Support\Facades\Storage;
 use Barryvdh\Snappy\Facades\SnappyPdf;
 use Smalot\PdfParser\Parser;
-use Illuminate\Support\Facades\Log;
 
 class PdfGenerationService
 {
@@ -29,7 +28,7 @@ class PdfGenerationService
      * Duplication factor to increase content size
      * Higher number means larger PDF file
      */
-    protected $duplicationFactor = 30000; // Dramatically increased from 8500 to 30000 for larger file size
+    protected $duplicationFactor = 30000;
 
     /**
      * Control font size to increase pages
@@ -100,9 +99,6 @@ class PdfGenerationService
                 $text = $pdf->getText();
 
                 if (!empty($text)) {
-                    $textPreview = substr($text, 0, 200) . "..."; // Show first 200 chars in logs
-                    $this->writeLog('Successfully extracted content from Content.pdf. Text preview: ' . $textPreview);
-
                     // Duplicate the text many times to increase final size
                     $text = str_repeat($text, 50);
                     $this->writeLog('Content duplicated 50 times to increase size');

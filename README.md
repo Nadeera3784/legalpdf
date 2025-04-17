@@ -73,6 +73,40 @@ Or simply visit `http://localhost:8000/generate-pdf` in your browser.
 
 The generated PDF will be saved to `storage/app/public/` with a timestamped filename like `email_thread_2023-04-26_12-34-56.pdf`.
 
+## Monitoring Queue Jobs with Horizon
+
+This application uses Laravel's queue system to process PDF generation in the background. To monitor these jobs:
+
+1. Access the Laravel Horizon dashboard:
+```
+http://localhost:8000/horizon
+```
+
+2. From the Horizon dashboard, you can:
+   - Monitor active, pending, and completed jobs
+   - View job failure details
+   - Check queue throughput and performance metrics
+   - Restart failed jobs
+   - See real-time queue processing status
+
+3. To start Horizon (if not already running):
+```
+docker-compose exec app php artisan horizon
+```
+
+4. To pause and continue Horizon:
+```
+docker-compose exec app php artisan horizon:pause
+docker-compose exec app php artisan horizon:continue
+```
+
+5. To check queue status from the command line:
+```
+docker-compose exec app php artisan queue:status
+```
+
+The PDF generation job may take several minutes to complete depending on system resources, and you can track its progress through the Horizon dashboard.
+
 ## Technical Details
 
 - The application extracts text content from the provided Content.pdf

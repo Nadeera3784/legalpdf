@@ -19,7 +19,3 @@ Route::get('/', function () {
 });
 
 Route::get('/generate-pdf', [PdfController::class, 'generate']);
-
-Route::get('/dashboard', [PdfController::class, 'dashboard']);
-
-// Horizon routes are registered automatically at /horizon

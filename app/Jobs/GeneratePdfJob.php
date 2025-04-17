@@ -66,9 +66,6 @@ class GeneratePdfJob implements ShouldQueue
             ]);
         } catch (\Exception $e) {
             Log::error('PDF generation job failed: ' . $e->getMessage());
-
-            // Optionally, you could retry the job
-            // $this->release(60); // Release back to queue after 60 seconds
             throw $e;
         }
     }
